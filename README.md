@@ -8,3 +8,7 @@ pip install -e .
 ```
 
 To create a virtual environment, you may use hatch shell.
+
+## Dataset
+
+We perform link prediction on the ogb-ddi dataset.
